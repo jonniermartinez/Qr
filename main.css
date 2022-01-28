@@ -47,3 +47,10 @@
     font-weight: 300;
     margin: 15px;
 }
+p{
+    text-align: center;
+    margin: 15px;
+}
+p span{
+    color: red;
+}
